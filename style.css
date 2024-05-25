@@ -82,6 +82,7 @@ button.showbtn {
 }
 .disabled {
     color: #afafaf;
+    cursor: not-allowed;
 }
 img.showimg {
     width: 40%;
